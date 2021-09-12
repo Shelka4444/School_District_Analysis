@@ -8,9 +8,9 @@ The purpose of this project is to examine 15 different high school's math and re
 <img src="https://github.com/Shelka4444/School_District_Analysis/blob/main/Resources/Images/district%20summary.png" alt="District Summary">
 
 - How is the school summary affected?
-
+<img src="https://github.com/Shelka4444/School_District_Analysis/blob/main/Resources/Images/per%20school%20summary.png" alt="School Summary">
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
--
+<img src="https://github.com/Shelka4444/School_District_Analysis/blob/main/Resources/Images/Thomas%20High%20School%20Summary.png" alt="THS summary">
 - How does replacing the ninth-grade scores affect the following:
 - 
 - Math and reading scores by grade
