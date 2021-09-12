@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview of the school district analysis:
-The purpose of this project is to examine 15 different high school's math and reading scores based on a variety of metrics (schools size, spending per student, school type, etc.). Due to academic dishonesty, grades were omitted at the 9th grade level from one high school in the data set. These findings are presented to the school board committee who will then decide how to allocate funds for the following academic year.
+The purpose of this project is to examine 15 different high school's math and reading scores based on a variety of metrics (schools size, spending per student, school type, etc.). Due to academic dishonesty, grades were omitted in the data set at the 9th grade level from Thomas High School. These findings are presented to the school board committee who will then decide how to allocate funds for the following academic year.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 - How is the district summary affected?
